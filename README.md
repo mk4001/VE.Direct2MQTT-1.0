@@ -7,7 +7,7 @@ The VE.Direct interface, on most Victron Energy products, is in fact a UART whic
 
 It is necessary to make a simple adapter cable with the help of a JST 2.0 PH 4 connector easily available both on Amazon and on Aliexpress.
 
-The pins of the UART port in question, I only used PINs 1 (GND) and 3 (TX), then connected to Serial2 of a Wroom 32 ESP module (Ports GND and GPIO16).
+The pins of the UART port in question, I only used PINs 1 (GND) and 3 (TX), then connected to Serial2 of a "DEVIT V1 ESP32-WROOM-32 Development Board" (Ports GND and GPIO16).
 
 <img width="1369" alt="Screenshot 2023-07-20 at 09 47 55" src="https://github.com/mk4001/VE.Direct2InfluxDB/assets/50479511/780e0403-754e-42f9-90fa-479fb00701fc">
 
