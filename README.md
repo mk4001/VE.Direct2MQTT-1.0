@@ -1,5 +1,5 @@
 # VE.Direct2MQTT
-Victron Energy VE.Direct UART data output to MQTT using Espressif ESP32
+Victron Energy VE.Direct UART data output to MQTT using Espressif ESP32 (based on Arduino platfrom)
 
 The idea of untying the Smart Solar MPPT 75/15 by Victron Energy from the BLE APP of the smartphone and being able to bring the send to an MQTT broker, led me to create this project.
 
