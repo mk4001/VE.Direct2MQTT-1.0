@@ -35,4 +35,7 @@ With a little imagination and above all practice, you can even create dashboards
 
 the obviously "cool" thing about this is that you can consult the data of your Victron Energy devices quickly and easily from anywhere and customize them as you like.
 
+Alternatively you can use node red and manipulate the data as you see fit or create an ad hoc dashboard.
+https://nodered.org
+
 Inspired by: https://github.com/DocBrown101/Ve.Direct.InfluxDB.Collector
